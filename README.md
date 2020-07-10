@@ -6,5 +6,4 @@ O objetivo desse projeto é mostrar os estados que possuem o maior número de ó
 O projeto utiliza dos dados disponibilizados pelo https://covid.saude.gov.br/ para a realização da análise.
 São utilizados dados do começo da pandemia até o dia 06/07/2020
 
-Alunos: Rafael David da Silva
-Ramon Fernandes Rosario
+Alunos: Rafael David da Silva e Ramon Fernandes Rosario
