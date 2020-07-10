@@ -7,4 +7,4 @@ O projeto utiliza dos dados disponibilizados pelo https://covid.saude.gov.br/ pa
 São utilizados dados do começo da pandemia até o dia 06/07/2020
 
 Alunos: Rafael David da Silva
-        Ramon Fernandes Rosario
+Ramon Fernandes Rosario
